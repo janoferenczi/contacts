@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">"Contacts "</string>
+    <string name="contact_details">Contact Details</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="first_name">First Name :</string>
+    <string name="surname">Surname :</string>
+    <string name="address">Address :</string>
+    <string name="phone_number">Phone Number :</string>
+    <string name="email">Email :</string>
+    <string name="created_at">Created At :</string>
+    <string name="updated_at">Updated At :</string>
+    <string name="no_internet">No internet connection</string>
+</resources>
